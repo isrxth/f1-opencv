@@ -2,7 +2,7 @@
 
 F1 lane-tracking prototype built with OpenCV.
 
-The script reads `sample.mp4`, crops the frame, extracts features inside a road ROI, tracks them with Lucas-Kanade optical flow, and estimates a center line from the tracked points.
+The script reads `sample.mp4`, crops the frame, extracts features inside a road ROI, tracks them with Lucas-Kanade optical flow, and estimates a center line from the tracked points. This algorithm is used for estimating the racing line taken by the driver
 
 ## Preview
 
