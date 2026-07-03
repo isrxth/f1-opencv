@@ -6,10 +6,11 @@ The script reads `sample.mp4`, crops the frame, extracts features inside a road 
 
 ## Preview
 
-<video width="640" height="360" controls>
-  <source src="output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/a3bf0889-733d-46e6-8d97-ae44a483a00e
+
+
 
 ## Features
 
